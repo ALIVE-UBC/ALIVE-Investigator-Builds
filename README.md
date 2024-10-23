@@ -10,4 +10,4 @@ This public repository contains functional builds for demonstration purposes ONL
 
 Upon running, you will be asked to fill a survey which, at this time, consists of one question and will open in your default browser. Upon answering the question you will be given a code which you are required to copy and paste back in the application to proceed.
 
-Head on over to the releases page to download the demo builds [here](https://github.com/ALIVE-UBC/ALIVE-Investigator-Demos/releases/tag/untagged-b3f4a9b11c0882cd42d9).
+Head on over to the releases page to download the demo builds [here](https://github.com/ALIVE-UBC/ALIVE-Investigator-Demos/releases/tag/AI_01-(17)).
